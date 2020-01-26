@@ -11,7 +11,7 @@ This website was created with [Docusaurus](https://docusaurus.io/).
 # Get Started in 5 Minutes
 
 1. Make sure all the dependencies for the website are installed:
-
+ME
 ```sh
 # Install dependencies
 $ yarn
