@@ -34,7 +34,7 @@ jobs:
       - name: GitHub Pages
         uses: crazy-max/ghaction-github-pages@v1.2.5
         with:
-          repo: Rating-Coin/RatingCoinSite
+          repo: Rating-Coin/rating-coin.github.io
           target_branch: master
           build_dir: website/build/RatingCoinSite
         env:
