@@ -35,7 +35,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v1.2.5
         with:
           repo: Rating-Coin/RatingCoinSite
-          target_branch: gh-pages
+          target_branch: master
           build_dir: website/build/RatingCoinSite
         env:
           GITHUB_PAT: ${{ secrets.GT }}
