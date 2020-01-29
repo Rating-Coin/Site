@@ -1,21 +1,19 @@
 ---
 id: doc1
-title: About Rating Coin
+title: About RatingCoin
 sidebar_label: About RatingCoin
 ---
 
 ## Overview
 
-Through RatingCoin one can understand online reputation of People, Product & Places. How others see these when
-they look for these online. Today almost all reputation score of people, product & places are in silos with individual corporation. Rating Coin platform will depict the aggregated score of the same to drive better decision making & enable to transact with. Consumers will be delighted to refer one single universal score of person/product or a place online instead referring to differect score on different platforms.
-
+The RatingCoin protocol is a network of online reputation score of People, Product & Places. Across planet any organisation can be a part of this network to record & publish the online reputation score of their people, products & services. Ratingcoin protocol network is a unique platform depicting realtime reputation scores of anything & everthing creating an online reputation economy for all.
 
 
 ## What's in it for me
 
-Consumer - No more referring to multiples platforms/website to know a reputation score.  As an individual one can participate in rating others products, other person, others business and get rewarded from the pool.
+Consumer - No more referring to multiples platforms/website to know a reputation score.  As an individual one can participate in rating others products, other person, others business and get rated for a reward from the pool. Further details pls refer "RatingCoin Monetary Policy"
 
-Business - A low cost,secured and decentralized version of CRM is now availabe to get feedback as rating for their existing product or services across verticals.  
+Business - A low cost, secured and decentralized version of CRM is now availabe to get feedback as rating for their existing product or services across verticals.
 
 ## Phasellus
 
