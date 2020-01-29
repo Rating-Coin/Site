@@ -9,19 +9,16 @@ Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
 RatingCoin
 
 Through RatingCoin one can understand online reputation of People, Product & Places. How others see these when
-they look for these online. Today almost all reputation score of people, product & places are in silos with individual corporation. Rating Coin will depict the aggregated score of the same to drive better decision making enable to transact with. Consumers will be delighted to refer one single universal score of person/product or a place online instead referring to differect score on different platforms.
+they look for these online. Today almost all reputation score of people, product & places are in silos with individual corporation. Rating Coin platform will depict the aggregated score of the same to drive better decision making & enable to transact with. Consumers will be delighted to refer one single universal score of person/product or a place online instead referring to differect score on different platforms.
 
-What's in it for me 
-
+ 
 ```
+
+## What's in it for me 
+
 Consumer - You being a customer now need not to be referring to multiples platforms/website to know a reputation score. You as an individual can participate in rating others products, other person, others business and get rewarded from the pool.
 
-Business - As a business one can register their product or service for rating across sectors. 
-```
-
-## Nulla
-
-Nulla facilisi. Maecenas sodales nec purus eget posuere. Sed sapien quam, pretium a risus in, porttitor dapibus erat. Sed sit amet fringilla ipsum, eget iaculis augue. Integer sollicitudin tortor quis ultricies aliquam. Suspendisse fringilla nunc in tellus cursus, at placerat tellus scelerisque. Sed tempus elit a sollicitudin rhoncus. Nulla facilisi. Morbi nec dolor dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras et aliquet lectus. Pellentesque sit amet eros nisi. Quisque ac sapien in sapien congue accumsan. Nullam in posuere ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin lacinia leo a nibh fringilla pharetra.
+Business - A low cost,secured and decentralized version of CRM is now availabe to get rated of their existing product or services across verticals.  
 
 ## Orci
 
