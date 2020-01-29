@@ -6,14 +6,17 @@ sidebar_label: Example Page
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
 
-About RatingCoin
+RatingCoin
 
-Your Rating Network 
+Through RatingCoin one can understand online reputation of People, Product & Places. How others see these when
+they look for these online. Today almost all reputation score of people, product & places are in silos with individual corporation. Rating Coin will depict the aggregated score of the same to drive better decision making enable to transact with. Consumers will be delighted to refer one single universal score of person/product or a place online instead referring to differect score on different platforms.
 
-## Mauris In Code
+What's in it for me 
 
 ```
-Mauris vestibulum ullamcorper nibh, ut semper purus pulvinar ut. Donec volutpat orci sit amet mauris malesuada, non pulvinar augue aliquam. Vestibulum ultricies at urna ut suscipit. Morbi iaculis, erat at imperdiet semper, ipsum nulla sodales erat, eget tincidunt justo dui quis justo. Pellentesque dictum bibendum diam at aliquet. Sed pulvinar, dolor quis finibus ornare, eros odio facilisis erat, eu rhoncus nunc dui sed ex. Nunc gravida dui massa, sed ornare arcu tincidunt sit amet. Maecenas efficitur sapien neque, a laoreet libero feugiat ut.
+Consumer - You being a customer now need not to be referring to multiples platforms/website to know a reputation score. You as an individual can participate in rating others products, other person, others business and get rewarded from the pool.
+
+Business - As a business one can register their product or service for rating across sectors. 
 ```
 
 ## Nulla
