@@ -1,5 +1,5 @@
 ---
-id: About
+id: doc1
 title: About Rating Coin
 sidebar_label: Example Page
 ---
