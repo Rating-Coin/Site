@@ -1,6 +1,6 @@
 ---
-id: doc1
-title: Latin-ish
+id: About
+title: About Rating Coin
 sidebar_label: Example Page
 ---
 
