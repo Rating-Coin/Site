@@ -1,12 +1,10 @@
 ---
 id: doc1
 title: About Rating Coin
-sidebar_label: Example Page
+sidebar_label: About RatingCoin
 ---
 
-Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
-
-Overview
+## Overview
 
 Through RatingCoin one can understand online reputation of People, Product & Places. How others see these when
 they look for these online. Today almost all reputation score of people, product & places are in silos with individual corporation. Rating Coin platform will depict the aggregated score of the same to drive better decision making & enable to transact with. Consumers will be delighted to refer one single universal score of person/product or a place online instead referring to differect score on different platforms.
@@ -15,9 +13,9 @@ they look for these online. Today almost all reputation score of people, product
 
 ## What's in it for me
 
-Consumer - You being a customer now need not to be referring to multiples platforms/website to know a reputation score. You as an individual can participate in rating others products, other person, others business and get rewarded from the pool.
+Consumer - No more referring to multiples platforms/website to know a reputation score.  As an individual one can participate in rating others products, other person, others business and get rewarded from the pool.
 
-Business - A low cost,secured and decentralized version of CRM is now availabe to get rated of their existing product or services across verticals.  
+Business - A low cost,secured and decentralized version of CRM is now availabe to get feedback as rating for their existing product or services across verticals.  
 
 ## Phasellus
 
